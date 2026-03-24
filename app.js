@@ -4,7 +4,7 @@ tg.expand();
 tg.ready();
 
 // Конфигурация
-const WEBHOOK_URL = 'https://daniiltyasto.ru/webhook-test/NadiaTurlaeva_task_bot';
+const WEBHOOK_URL = 'https://daniiltyasto.ru/webhook/NadiaTurlaeva_task_bot';
 
 // Элементы DOM
 const uploadZone = document.getElementById('uploadZone');
